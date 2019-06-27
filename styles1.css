@@ -4,7 +4,7 @@
      box-sizing: border-box;
 		 }
 
-/* body */		 
+/*********** body ***********/		 
 body {
 	margin: 0px;
 	font-family:'Open Sans', sans-serif;
@@ -20,13 +20,6 @@ header {
 h2 {
 	text-align: center;
    }
-h1 {
-	margin: 0px;
-	color: #ffffff;
-	padding: 40px;
-	font-size: 40px;
-	font-weight: 400;	
-    }
 button {
 	font-size: 30px;
 	background-color: #048eaa;
@@ -44,7 +37,7 @@ section #text {
 	color: #ffffff;
       }
 
-/* Nav */
+/*********** Nav **********/
  .nav-list {
  	color: black;
  	text-decoration: none;
@@ -63,7 +56,15 @@ section #text {
     font-family:'Open Sans', sans-serif;
 	   }	
 
-/* Top */
+/********** Top **********/
+h1 {
+	margin: 0px;
+	color: #ffffff;
+	padding: 40px;
+	font-size: 40px;
+	font-weight: 400;	
+    }
+
 #top {
 	text-align: center;
 	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/park.jpg');
@@ -71,7 +72,7 @@ section #text {
 	background-size: cover;
 	width: 100%;
 	height: 670px;
-}
+     }
 .top-textarea {
 	width: 400px;
 	height: 40px;
@@ -102,7 +103,7 @@ section #text {
 	margin-left: 520px;
 			  }
 
-/* middle */		    
+/********* middle **********/		    
 .middle-img {
 	border-radius: 50% 50% 50% 50%;
 	border: 5px solid #048eaa;
@@ -122,8 +123,8 @@ section #text {
 	height: 750px;
 	text-align: center;
         }
-        
-/* footer */        
+
+/********** footer **********/        
 #footer {
 	background-color: #048eaa;
 	text-align: center;
