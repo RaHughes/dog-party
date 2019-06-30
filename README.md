@@ -1,6 +1,6 @@
 # Dog Party - Roger Hughes
 
-This is my first project submission while being a student at turing. The following is the Dog-Party indivdual project. This is a struggle for me. I have gotten down the very basics for CSS manipulation. S
+This is my first project submission while being a student at turing. The following is the Dog-Party indivdual project. This is a struggle for me. I have gotten down the very basics for CSS manipulation.
 
 Some key takeaways from my expierience for this project are:
 1. HTML structure 
