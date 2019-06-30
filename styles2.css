@@ -52,16 +52,13 @@ header {
 	margin-top: 50px;
 }
 .top-textarea {
-	display: inline-block;
 	margin-left: 500px;
 	width: 400px;
 	height: 40px;
 	margin-bottom: 20px;
 	font-size: 25px;
-	float: right;
 }       
 #top-form-button {
-	display: inline-block;
 	width: 400px;
 	height: 50px;	
 	font-size: 20px;
@@ -70,7 +67,6 @@ header {
 	font-weight: 700;
 	border: 1px solid #9A969C;
 	margin-left: 500px;
-	float: right;
 }
 #top-name-text {
 	color: white;
