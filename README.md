@@ -16,11 +16,13 @@ Some things I really REALLY need to work on and study are:
 
 Javascript is the only thing I have just the loosest concept on. I couldn't wrap my head around practicality, and im hoping to these upcoming lessons will give me some more context. 
 
-Here's a screen capture of my finished dog party comp-1. It has no functioning Javascript, and once you start changing browser size, all of my painstakingly placed sections mesh in a terrible way. 
+Here's a few screen captures of my finished dog party comp-1. It has no functioning Javascript, and once you start changing browser size, all of my painstakingly placed sections mesh in a terrible way. 
 
-
+![](https://github.com/RaHughes/dog-party/blob/master/images/Screen%20Shot%202019-06-29%20at%208.48.01%20PM.png)
+![](https://github.com/RaHughes/dog-party/blob/master/images/Screen%20Shot%202019-06-29%20at%208.48.38%20PM.png)
 
 Here's a screen capture of my not even close to being finished dog party comp-2. This comes back to structing my HTML in a way that allows different CSS sheets to be plugged in without a need for HTML restructure. 
+![](https://github.com/RaHughes/dog-party/blob/master/images/Screen%20Shot%202019-06-29%20at%208.46.39%20PM.png)
 
 
 
